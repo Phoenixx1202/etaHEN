@@ -383,6 +383,8 @@ bool is_whitelisted_app(const std::string &tid) {
       "PKGI13337",
       "PKGI12345",
       "TOOL00001",
+	  "DUSK00001",
+	
   };
   
   // Check for exact matches
